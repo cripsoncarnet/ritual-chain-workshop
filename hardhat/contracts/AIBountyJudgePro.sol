@@ -46,10 +46,10 @@ import {PrecompileConsumer} from "./utils/PrecompileConsumer.sol";
  *   • Timestamps on events (submittedAt, judgedAt, finalizedAt)
  *   • constructor() tracks deployer address
  *   • getContractInfo() helper for UI display
- *   • Different executor wallet address
+
  *
  * @author Student assignment — Ritual Chain Workshop, 2026
- * @custom:executor 0xB42e435c4252A5a2E7440e37B609F00c61a0c91B
+
  */
 contract AIBountyJudgePro is PrecompileConsumer {
 

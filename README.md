@@ -116,7 +116,7 @@ string memory visibleAnswer = bounty.judged ? sub.answer : "";
 | Event timestamps | ❌ | ✅ All events include `block.timestamp` |
 | Deployer tracking | ❌ | ✅ `deployer` state var |
 | `getContractInfo()` | ❌ | ✅ Version, deployer, total bounties |
-| Executor wallet | `0x532F0dF...` | `0xB42e435c4252A5a2E7440e37B609F00c61a0c91B` |
+
 | Solidity version | 0.8.24 | 0.8.24 |
 
 ---
