@@ -1,9 +1,6 @@
 # AIBountyJudgePro — Privacy-Preserving AI Bounty Judge
 
-> **Contract:** `AIBountyJudgePro.sol` — v2.0.0-commit-reveal  
-> **Deployed on:** Ritual Chain (Chain ID: 1979)  
-> **Contract Address:** `0xbd9F76048B49EFcD455a31405dd46A196CAaDeb1`  
-> **Executor Wallet:** `0xB42e435c4252A5a2E7440e37B609F00c61a0c91B`
+
 
 ---
 
